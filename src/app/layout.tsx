@@ -9,7 +9,7 @@ import AuthProvider from "@/components/Auth-provider";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "NextJob - Find Your Next Career Opportunity",
+  title: "NextJob",
   description: "A platform for job seekers and employers to connect",
 };
 
